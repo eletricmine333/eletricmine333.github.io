@@ -1,2 +1,3 @@
 # Sky Ha
-I'm cool.
+[Visible Text](https://youtube.com)
+[Email me](mailto:theoctagon333@gmail.com)
